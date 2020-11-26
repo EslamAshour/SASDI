@@ -2,4 +2,10 @@
 <ArchInfo Date="1606392895459" Description="version 1" Name="version 1" PackageName="version 1.spk" UserID="unxsas" Version="ad7aa72">
 <ContainObj>SBIP://METASERVER/User Folders/unxsas/My Folder/TestConditionalExecution 1(Job)</ContainObj>
 </ArchInfo>
+<ArchInfo Date="1606393371901" Description="conditional email " Name="sample - email " PackageName="sample - email .spk" UserID="unxsas" Version="eb6641c">
+<ContainObj>SBIP://METASERVER/User Folders/unxsas/My Folder/sample - conditional email(Folder)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/unxsas/My Folder/sample - conditional email/class.csv(ExternalFile)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/unxsas/My Folder/sample - conditional email/class2.csv(ExternalFile)</ContainObj>
+<ContainObj>SBIP://METASERVER/User Folders/unxsas/My Folder/sample - conditional email/sample - conditional email(Job)</ContainObj>
+</ArchInfo>
 </ROOT>
